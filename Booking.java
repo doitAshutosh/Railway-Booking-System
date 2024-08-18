@@ -19,7 +19,7 @@ public class Booking {
             frame.setBackground(Color.GRAY);
 
             JLabel personLabel = new JLabel("PersonalDetails");
-            personLabel.setBounds(10, 10, 120, 30);
+            personLabel.setBounds(10, 10, 120, 20);
             frame.add(personLabel);
 
             JLabel ticketDetaiLabel = new JLabel("Ticket Details");
